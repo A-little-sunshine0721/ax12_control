@@ -44,7 +44,7 @@ sudo apt install ros-jazzy-dynamixel-sdk python3-matplotlib python3-tk
 sudo usermod -aG dialout $USER        # 시리얼 권한 (재로그인 필요)
 
 mkdir -p ~/ax12_ws/src && cd ~/ax12_ws/src
-git clone https://github.com/<USERNAME>/ax12_control.git
+git clone https://github.com/A-little-sunshine0721/ax12_control.git
 cd ~/ax12_ws
 colcon build --packages-select ax12_control
 source install/setup.bash
