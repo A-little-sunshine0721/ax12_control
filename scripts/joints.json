@@ -1,0 +1,4 @@
+{
+  "2": {"zero_deg": 150.0, "dir":  1, "min_deg": -93.0, "max_deg": 93.0},
+  "3": {"zero_deg": 150.0, "dir": -1, "min_deg": -93.0, "max_deg": 93.0}
+}
